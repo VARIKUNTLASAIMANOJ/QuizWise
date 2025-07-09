@@ -110,7 +110,7 @@ npm run dev
    npm run dev
    ```
 
-3. Visit the app at: [http://localhost:####](http://localhost:####)
+3. Visit the app at: [http://localhost:####](http://localhost:8000)
 
 ---
 
