@@ -128,5 +128,5 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ## 👨‍💻 Author
 
-**SAI MANOJ VARIKUNTLA**
+**VARIKUNTLA SAI MANOJ**
 📎 [GitHub Profile](https://github.com/VARIKUNTLASAIMANOJ)
