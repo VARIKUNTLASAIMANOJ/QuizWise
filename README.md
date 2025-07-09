@@ -12,7 +12,7 @@
 - 🎨 Sleek UI with Tailwind CSS
 - ⚡️ Vite-powered frontend with React
 - 📁 File handling support (`uploads/`)
-- 🌍 Google Sheets + Firebase Integration
+- 🌍 Google API's Integration
 
 ---
 
