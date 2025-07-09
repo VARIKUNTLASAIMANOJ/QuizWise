@@ -8,7 +8,7 @@
 
 - 🧠 Create and take custom quizzes
 - 🔒 Secure backend with environment configuration
-- 🌐 Full-stack TypeScript + Python app
+- 🌐 Full-stack React + Python app
 - 🎨 Sleek UI with Tailwind CSS
 - ⚡️ Vite-powered frontend with React
 - 📁 File handling support (`uploads/`)
@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React + TypeScript
+- React
 - Tailwind CSS
 - Vite
 
